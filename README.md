@@ -1,6 +1,6 @@
 # Sweet Escape
 
-**Sweet Escape** is a 3D corridor-style game built using Unity. The player navigates through a candy world, dodging obstacles and collecting power-ups to escape and rack up a high score.
+**Sweet Escape** is a 3D corridor-style game built using Unity. The player navigates through a candy world, dodging obstacles and collecting power-ups to escape death and rack up a high score.
 
 ---
 
